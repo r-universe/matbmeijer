@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DemografixeR"]
-	path = DemografixeR
-	url = https://github.com/matbmeijer/demografixer
-	shallow = true
-	registered = true
 [submodule "JirAgileR"]
 	path = JirAgileR
 	url = https://github.com/matbmeijer/jiragiler
