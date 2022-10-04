@@ -8,8 +8,3 @@
 	url = https://github.com/matbmeijer/demografixer
 	shallow = true
 	registered = true
-[submodule "JirAgileR"]
-	path = JirAgileR
-	url = https://github.com/matbmeijer/jiragiler
-	shallow = true
-	registered = true

@@ -2,9 +2,5 @@
   {
     "package": "DemografixeR",
     "oncran": true
-  },
-  {
-    "package": "JirAgileR",
-    "oncran": true
   }
 ]
